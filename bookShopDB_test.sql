@@ -351,3 +351,4 @@ select * from OrdersDetail
 
 --BACKUP DATABASE convenienceStoreDB TO DISK = 'H:\03-DBI\DBIGiaoTrinh2022\libraryManagementDB\convenienceStoreDB.BAK'
 --Mới comment hàng trên nha
+--Cố ý để conflict nè
